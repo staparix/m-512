@@ -1,0 +1,30 @@
+{
+  "name": "m-512",
+  "version": "1.0.0",
+  "description": "Medbooking",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/staparix/m-512.git"
+  },
+  "author": "Aigars B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/staparix/m-512/issues"
+  },
+  "homepage": "https://github.com/staparix/m-512#readme",
+  "dependencies": {
+    "blipp": "2.3.0",
+    "bootstrap": "^4.0.0-alpha.6",
+    "dust": "0.3.0",
+    "dustjs-helpers": "1.7.3",
+    "dustjs-linkedin": "2.7.5",
+    "hapi": "16.1.1",
+    "hapi-dust": "^2.0.0",
+    "inert": "4.2.0",
+    "vision": "4.1.1"
+  }
+}
